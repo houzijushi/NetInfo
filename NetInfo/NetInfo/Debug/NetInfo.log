@@ -1,0 +1,36 @@
+﻿生成启动时间为 2018/1/14 14:17:53。
+     1>项目“E:\所有电脑资料（17-11-20）\C&C++programming\QT_NetInfo\NetInfo_v2\NetInfo_v2\NetInfo\NetInfo\NetInfo.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“Debug\NetInfo.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ComputeCustomBuildOutput:
+         正在创建目录“E:\所有电脑资料（17-11-20）\C&C++programming\QT_NetInfo\NetInfo_v2\NetInfo_v2\NetInfo\NetInfo\GeneratedFiles\Debug\”。
+       CustomBuild:
+         Moc'ing MainWindow.h...
+         Uic'ing MainWindow.ui...
+         Rcc'ing MainWindow.qrc...
+     1>RCC : warning : No resources in 'E:\鎵€鏈夌數鑴戣祫鏂欙紙17-11-20锛塡C&C++programming\QT_NetInfo\NetInfo_v2\NetInfo_v2\NetInfo\NetInfo\MainWindow.qrc'.
+         
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /I.\GeneratedFiles /I. /IC:\Qt\4.8.4\include /I.\GeneratedFiles\Debug /IC:\Qt\4.8.4\include\QtCore /IC:\Qt\4.8.4\include\QtGui /IC:\Qt\4.8.4\include\QtNetwork /Zi /nologo /W1 /WX- /Od /Oy- /D UNICODE /D WIN32 /D QT_DLL /D QT_CORE_LIB /D QT_GUI_LIB /D QT_NETWORK_LIB /Gm- /EHsc /MDd /GS /fp:precise /Zc:wchar_t- /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt GeneratedFiles\Debug\moc_MainWindow.cpp main.cpp MainWindow.cpp
+         moc_MainWindow.cpp
+         main.cpp
+         MainWindow.cpp
+         正在生成代码...
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /I.\GeneratedFiles /I. /IC:\Qt\4.8.4\include /I.\GeneratedFiles\Debug /IC:\Qt\4.8.4\include\QtCore /IC:\Qt\4.8.4\include\QtGui /IC:\Qt\4.8.4\include\QtNetwork /Zi /nologo /W1 /WX- /Od /Oy- /D UNICODE /D WIN32 /D QT_DLL /D QT_CORE_LIB /D QT_GUI_LIB /D QT_NETWORK_LIB /Gm- /EHsc /MDd /GS /fp:precise /Zc:wchar_t- /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt GeneratedFiles\qrc_MainWindow.cpp
+         qrc_MainWindow.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\所有电脑资料（17-11-20）\C&C++programming\QT_NetInfo\NetInfo_v2\NetInfo_v2\NetInfo\Win32\Debug\\NetInfo.exe" /NOLOGO /LIBPATH:C:\Qt\4.8.4\lib qtmaind.lib QtCored4.lib QtGuid4.lib QtNetworkd4.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\NetInfo.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"E:\所有电脑资料（17-11-20）\C&C++programming\QT_NetInfo\NetInfo_v2\NetInfo_v2\NetInfo\Win32\Debug\NetInfo.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\所有电脑资料（17-11-20）\C&C++programming\QT_NetInfo\NetInfo_v2\NetInfo_v2\NetInfo\Win32\Debug\NetInfo.lib" /MACHINE:X86 Debug\moc_MainWindow.obj
+         Debug\qrc_MainWindow.obj
+         Debug\main.obj
+         Debug\MainWindow.obj
+         NetInfo.vcxproj -> E:\所有电脑资料（17-11-20）\C&C++programming\QT_NetInfo\NetInfo_v2\NetInfo_v2\NetInfo\Win32\Debug\NetInfo.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"E:\所有电脑资料（17-11-20）\C&C++programming\QT_NetInfo\NetInfo_v2\NetInfo_v2\NetInfo\Win32\Debug\\NetInfo.exe;#1" /manifest Debug\NetInfo.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         正在删除文件“Debug\NetInfo.unsuccessfulbuild”。
+         正在对“Debug\NetInfo.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“E:\所有电脑资料（17-11-20）\C&C++programming\QT_NetInfo\NetInfo_v2\NetInfo_v2\NetInfo\NetInfo\NetInfo.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:06.06
